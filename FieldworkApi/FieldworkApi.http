@@ -1,0 +1,6 @@
+@FieldworkApi_HostAddress = http://localhost:5138
+
+GET {{FieldworkApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

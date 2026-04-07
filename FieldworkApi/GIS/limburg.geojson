@@ -1,0 +1,21 @@
+{
+    "type": "Feature",
+    "properties": {
+      "name": "Limburg",
+      "admin": "Belgium"
+    },
+    "geometry": {
+      "type": "MultiPolygon",
+      "coordinates": [
+        [
+          [
+            [5.20935, 50.91914],
+            [5.34013, 50.89790],
+            [5.38365, 50.96469],
+            [5.29310, 50.99120],
+            [5.20935, 50.91914]
+          ]
+        ]
+      ]
+    }
+  }

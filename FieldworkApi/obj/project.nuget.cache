@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hlFFkze6CL4=",
+  "success": true,
+  "projectFilePath": "/Users/dietergrobben/Documents/Repos/backend/FieldworkApi/FieldworkApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/dietergrobben/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/dietergrobben/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
