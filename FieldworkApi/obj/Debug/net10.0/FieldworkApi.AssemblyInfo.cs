@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FieldworkApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+204b59a9951953e195b9a6b16e06c3b800719c57")]
 [assembly: System.Reflection.AssemblyProductAttribute("FieldworkApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FieldworkApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
